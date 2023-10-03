@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. HImanshu yadav",
+    "specialty": "Cardio",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 10,
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Priyanshu yadav",
+    "specialty": "Derma",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 8,
+    "location": "Jaipur"
+  },
+  {
+    "id": 3,
+    "name": "Deepesh Yadavn",
+    "specialty": "Psyco",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 3,
+    "location": "Gurgaon"
+  },
+  {
+    "id": 4,
+    "name": "Aaditi Bariya",
+    "specialty": "Medicine",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 1,
+    "location": "Kota"
+  },
+  {
+    "id": 5,
+    "name": "Gautam Sharma",
+    "specialty": "Physician",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 100,
+    "location": "Naranul"
+  },
+  {
+    "id": 6,
+    "name": "Ayushi Yadav",
+    "specialty": "Radio",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 98,
+    "location": "Rewari"
+  },
+  {
+    "id": 7,
+    "name": "Ayush Yadav",
+    "specialty": "Derma",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 55,
+    "location": "Kaihtal"
+  },
+  {
+    "id": 8,
+    "name": "Govind Sharama",
+    "specialty": "Compounder",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 333,
+    "location": "Kukas"
+  },
+  {
+    "id": 9,
+    "name": "Muskan Arya",
+    "specialty": "Medicine",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 33,
+    "location": "Sawai Madhopur"
+  },
+  {
+    "id": 10,
+    "name": "Sonakshi",
+    "specialty": "Cardio",
+    "availableDays": ["Monday","Tuesday","Wednesday","Thrusday","Friday","Saturday"],
+    "maxPatientsPerDay": 2,
+    "location": "Nizampur"
+  }
+]
